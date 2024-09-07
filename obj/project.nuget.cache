@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GehPc0vzT+g=",
+  "success": true,
+  "projectFilePath": "/home/starmage/.local/share/Terraria/tModLoader/ModSources/TravelingPartygoer/TravelingPartygoer.csproj",
+  "expectedPackageFiles": [
+    "/home/starmage/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

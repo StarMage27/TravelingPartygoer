@@ -1,0 +1,3 @@
+displayName = Traveling Partygoer
+author = StarMage27
+version = 1.1
