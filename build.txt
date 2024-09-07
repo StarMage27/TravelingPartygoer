@@ -1,3 +1,4 @@
 displayName = Traveling Partygoer
 author = StarMage27
-version = 1.1
+version = 1.2
+buildIgnore = .gitignore, *.sln, *.csproj, *.ase, *.user, obj\*, bin\*, .vs\*, Properties\*, .git\*

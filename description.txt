@@ -3,3 +3,5 @@ So in case you want a rare item from him, you can exploit this new condition.
 
 I attempted to translate the arrival message to different languages using automatic online translators. If there are any issues, please write about them in the comments
 If you encounter any bugs, report them in the Steam page or GitHub page of this mod.
+
+Source code: https://github.com/StarMage27/TravelingPartygoer
